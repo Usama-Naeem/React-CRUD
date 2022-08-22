@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "contact": "1-770-736-8031 x56442"
+    },
+    {
+      "name": "Usama Naeem",
+      "username": "usama.naeem@emerald-labs.com",
+      "email": "usamamanghat1@gmail.com",
+      "contact": "9875",
+      "id": 2
+    },
+    {
+      "name": "Usama Naeem",
+      "username": "usama.naeem@emerald-labs.com",
+      "email": "usamamanghat1@gmail.com",
+      "contact": "9875",
+      "id": 3
+    },
+    {
+      "name": "Asad Naeem",
+      "username": "asadnaeem",
+      "email": "asadnaeem12",
+      "contact": "76975027030",
+      "id": 4
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "",
+      "contact": "",
+      "id": 5
+    }
+  ]
+}
